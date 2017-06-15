@@ -4,13 +4,50 @@ body {
   font-family: Helvetica;
 }
 
-.title-banner {
-  background-image: url(./resources/images/the-flatiron-building.png);
+.banner-image {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.banner-image p {
+  font-size: 18px;
 }
 
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
 
+a {
+  color: white;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+
+
+
+
+
+
+.copyright {
+  font-size: 11px;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
 }
